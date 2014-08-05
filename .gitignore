@@ -1,0 +1,6 @@
+*.pyc
+lib
+bin
+lib64
+pyvenv.cfg
+db.sqlite3
